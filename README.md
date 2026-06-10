@@ -35,7 +35,7 @@ in Uzbekistan.
 Andijon • Toshkent • Buxoro • Samarqand • Farg'ona
 
 ## 📷 Dashboard Preview
-![Student Performance Dashboard](assets/screenshot.png)
+https://github.com/Dinara-dev/student-attendance-academic-performance/blob/main/photo_2026-06-10_15-40-16.jpg
 
 ## 🗂️ Dataset
 Synthetic education dataset created for portfolio purposes.
